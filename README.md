@@ -4,8 +4,7 @@
 
 
 ✨<strong>Hello! I'm Jayeon Kim</strong><br>
-안녕하세요! 열정 가득한 신입 개발자 김자연 입니다.💖 <br>
-KH 정보 교육원 수료
+
  
 
 <h2>Skills & Tools </h2>
